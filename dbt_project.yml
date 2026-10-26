@@ -40,6 +40,8 @@ models:
     # Applies to all files under models/example/
     example:
       +materialized: table
+
+      
 seeds:
   dbt_project: # Change this to your actual project name from line 1 of this file
     +quote_columns: true
