@@ -43,5 +43,5 @@ models:
 
       
 seeds:
-  dbt_project: # Change this to your actual project name from line 1 of this file
+  my_new_project: # Change this to your actual project name from line 1 of this file
     +quote_columns: true
